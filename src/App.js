@@ -9,6 +9,7 @@ const GoogleSlidesViewer = () => {
       <WebView source={{ uri: url }} />  
     </View>  
   );  
+  
 };  
   
 export default GoogleSlidesViewer;  
